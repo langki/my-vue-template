@@ -74,7 +74,7 @@
       <li>
         <a
           href="https://github.com/vuejs/awesome-vue"
-          target="_blank"
+          target="_blank"ß
         >
           awesome-vue
         </a>
@@ -85,7 +85,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: '测试项目',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
